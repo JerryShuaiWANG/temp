@@ -1,0 +1,1 @@
+bagging_fraction=0.5684157042896512,feature_selector=0,learning_rate=0.12191642393512779,max_depth=5,min_child_samples=1,n_estimators=482,num_leaves=8,select_des_num=0,
